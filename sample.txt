@@ -1,4 +1,5 @@
 this my first gitproject
+<<<<<<< HEAD
 
 --------
 github commands i learing today
@@ -7,3 +8,7 @@ github commands i learing today
 3.git  commit -m "add some code"
 4. git remote origin link
 5.git  push origin master
+=======
+-----------
+this file for not accepted add more code
+>>>>>>> b6e3b15deb5e02b7dcc0257006487cc72f17701c
