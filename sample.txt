@@ -1,1 +1,9 @@
 this my first gitproject
+
+--------
+github commands i learing today
+1.git init
+2. git add 
+3.git  commit -m "add some code"
+4. git remote origin link
+5.git  push origin master
